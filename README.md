@@ -43,9 +43,15 @@ I am eager to learn and grow as a software developer, and I am excited to take o
     <a href="https://webpack.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/webpack.png" alt="webpack" style="width:50px"/> </a>
     <a href="https://babeljs.io/" target="_blank"> <img src="https://img.icons8.com/dusk/64/babel.png" alt="babel" 
     style="width:50px"> </a>
+<<<<<<< HEAD
    <a> <img src="https://icons8.com/icon/Pd2x9GWu9ovX/java" style="width:50"/> </a>
    <a> <img src="https://icons8.com/icon/set/mysql/fluency"style="width:50"/> </a>
    <a><img src="https://icons8.com/icons/request-icon/spring-boot--wi70bArbgzma"/>
+=======
+    <img src="https://icons8.com/icon/Pd2x9GWu9ovX/java"/>
+    <img src="https://icons8.com/icon/set/mysql/fluency"/>
+    <img src="https://icons8.com/icons/request-icon/spring-boot--wi70bArbgzma">
+>>>>>>> c7711a685f33ab255cd38e387cea4a668bc9946a
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" style="width:50px"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/firebase.png" alt="firebase"
 style="width:50px"/> </a>
@@ -73,11 +79,17 @@ style="width:50px"/> </a>
 </div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
+<<<<<<< HEAD
   
  <div>
 <img alt="bijaya's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bijayakumar13&theme=2077" />
 </div>
+=======
+>>>>>>> c7711a685f33ab255cd38e387cea4a668bc9946a
 
+div>
+<img alt="bijaya's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bijayakumar13&theme=2077" />
+</div>
 ## 📊 Connect With Me
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left">
