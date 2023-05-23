@@ -48,9 +48,7 @@ I am eager to learn and grow as a software developer, and I am excited to take o
      <a> <img src="https://img.icons8.com/?size=512&id=Pd2x9GWu9ovX&format=png" style="width:50"/> </a>
    <a> <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"style="width:50"/> </a>
  
-    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" style="width:50px"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/firebase.png" alt="firebase"
-style="width:50px"/> </a>
+    
     
 </div>
 
@@ -66,31 +64,20 @@ style="width:50px"/> </a>
 <div align="center"> 
   <br/>
     <a href="https://github.com/Bijayakumar13/github-readme-stats"><img alt="Bijaya Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bijayakumar13&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Bijayakumar13/github-readme-stats"><img alt="Bijaya's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bijayakumar13Bijayakumar13&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    
-    
-    
+  <a href="https://github.com/Bijayakumar13/github-readme-stats"><img alt="Bijaya's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bijayakumar13Bijayakumar13&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>   
   <br/>
 	
 </div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
-<<<<<<< HEAD
   
  <div>
 <img alt="bijaya's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bijayakumar13&theme=2077" />
 </div>
-=======
->>>>>>> c7711a685f33ab255cd38e387cea4a668bc9946a
 
-div>
-<img alt="bijaya's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bijayakumar13&theme=2077" />
-</div>
 ## 📊 Connect With Me
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left">
-<a href="https://twitter.com/@AjitabD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AjitabD" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/Kushal-dash-983b641b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KushalDash" height="30" width="40" /></a>
  -->
 <!-- </p>
 
