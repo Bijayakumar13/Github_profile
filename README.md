@@ -43,7 +43,7 @@ I am eager to learn and grow as a software developer, and I am excited to take o
     <a href="https://webpack.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/webpack.png" alt="webpack" style="width:50px"/> </a>
     <a href="https://babeljs.io/" target="_blank"> <img src="https://img.icons8.com/dusk/64/babel.png" alt="babel" 
     style="width:50px"> </a>
-   <a> <img src="https://img.icons8.com/?size=512&id=Pd2x9GWu9ovX&format=png" style="width:50"/> </a>
+   <a> <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo" style="width:50"/> </a>
    <a> <img src="https://img.icons8.com/?size=512&id=9nLaR5KFGjN0&format=png"style="width:50"/> </a>
    <a><img src="https://inceptum.s3.us-east-1.amazonaws.com/tdUicl11Joyw/springBoot.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA3HNMG24SATQ2TORO%2F20230523%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230523T092735Z&X-Amz-Expires=345600&X-Amz-Signature=562af1574473a9d751f2106745e24ae0eb1ffd5075b16055d9a77f374809efd7&X-Amz-SignedHeaders=host&x-id=GetObject"/></a>
      <a> <img src="https://img.icons8.com/?size=512&id=Pd2x9GWu9ovX&format=png" style="width:50"/> </a>
