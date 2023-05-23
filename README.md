@@ -45,9 +45,7 @@ I am eager to learn and grow as a software developer, and I am excited to take o
     style="width:50px"> </a>
    <a> <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> </a>
    <a> <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/> </a>
-     <a> <img src="https://img.icons8.com/?size=512&id=Pd2x9GWu9ovX&format=png" style="width:50"/> </a>
-   <a> <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"style="width:50"/> </a>
- 
+   
     
     
 </div>
