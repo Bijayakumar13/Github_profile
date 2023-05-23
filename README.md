@@ -43,8 +43,8 @@ I am eager to learn and grow as a software developer, and I am excited to take o
     <a href="https://webpack.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/webpack.png" alt="webpack" style="width:50px"/> </a>
     <a href="https://babeljs.io/" target="_blank"> <img src="https://img.icons8.com/dusk/64/babel.png" alt="babel" 
     style="width:50px"> </a>
-   <a> <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo" style="width:50"/> </a>
-   <a> <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"style="width:50"/> </a>
+   <a> <img src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> </a>
+   <a> <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/> </a>
      <a> <img src="https://img.icons8.com/?size=512&id=Pd2x9GWu9ovX&format=png" style="width:50"/> </a>
    <a> <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"style="width:50"/> </a>
  
