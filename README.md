@@ -74,7 +74,9 @@ style="width:50px"/> </a>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 
-
+div>
+<img alt="bijaya's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bijayakumar13&theme=2077" />
+</div>
 ## 📊 Connect With Me
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left">
