@@ -43,8 +43,8 @@ I am eager to learn and grow as a software developer, and I am excited to take o
     <a href="https://webpack.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/webpack.png" alt="webpack" style="width:50px"/> </a>
     <a href="https://babeljs.io/" target="_blank"> <img src="https://img.icons8.com/dusk/64/babel.png" alt="babel" 
     style="width:50px"> </a>
-    <img src="https://icons8.com/icon/Pd2x9GWu9ovX/java">
-    <img src="https://icons8.com/icon/set/mysql/fluency">
+    <img src="https://icons8.com/icon/Pd2x9GWu9ovX/java"/>
+    <img src="https://icons8.com/icon/set/mysql/fluency"/>
     <img src="https://icons8.com/icons/request-icon/spring-boot--wi70bArbgzma">
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" style="width:50px"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/firebase.png" alt="firebase"
